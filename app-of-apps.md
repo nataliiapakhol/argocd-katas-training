@@ -1,6 +1,6 @@
 # Organizing and Managing Argo CD Apps through app-of-apps
 
-## Learning Goals
+## Learning Goals test
 
 - Create a bootstrap app manifest
 - Arrange Argo CD app manifests in a folder structure
