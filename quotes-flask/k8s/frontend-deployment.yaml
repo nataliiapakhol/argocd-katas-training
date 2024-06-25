@@ -3,7 +3,7 @@ kind: Deployment
 metadata:
   creationTimestamp: null
   labels:
-    app: frontend
+    app: fronttend
   name: frontend
 spec:
   replicas: 2
